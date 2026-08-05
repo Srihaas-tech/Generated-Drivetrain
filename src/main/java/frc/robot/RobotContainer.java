@@ -1,7 +1,11 @@
 // Copyright (c) FIRST and other WPILib contributors.
 // Open Source Software; you can modify and/or share it under the terms of
 // the WPILib BSD license file in the root directory of this project.
-
+// Hello Future readers, So, you just probably used Tuner X to make your project
+// which in that case, nice job! You have a working DT! The next thing that
+// you have to do, is, frankly, a lot of things. The first thing that I care about
+// is getting the basic visionless code in. So, id say, look at what your code and this code differs
+// and copy it down.
 package frc.robot;
 
 import static edu.wpi.first.units.Units.*;
